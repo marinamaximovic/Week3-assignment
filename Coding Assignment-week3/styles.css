@@ -1,0 +1,7 @@
+.font-size {
+  font-size: 18px;
+}
+h1 {
+  font-style: unset;
+  text-shadow: 2px 2px 3px gray;
+}
